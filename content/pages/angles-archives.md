@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Angles Archives
 uid: de380b86-4f4e-5484-5e0e-71c1c093b6e9
 ---
