@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page links to the archives of the online magazine Angles.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Angles Archives
