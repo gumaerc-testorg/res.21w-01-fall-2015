@@ -12,10 +12,10 @@ image_metadata:
   image-alt: A building made of silver stainless steel, with walls that slope in angles
     and curves.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-21w-01f15-th.jpg
 uid: de64ff9f-bacf-ece7-3310-838a74d04043
 ---
 The Stata Center at MIT, an angular building designed by Frank Gehry, opened in 2004. Image courtesy of Sebastià Giralt on flickr.
-
