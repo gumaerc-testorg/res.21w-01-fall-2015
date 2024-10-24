@@ -2,7 +2,7 @@
 content_type: resource
 description: "The Stata Center at MIT, an angular building designed by Frank Gehry,\
   \ opened in 2004. Image courtesy of Sebasti\xE0 Giralt on flickr."
-file: /courses/res-21w-01-angles-fall-2015/de64ff9fbacfece73310838a74d04043_res-21w-01f15-th.jpg
+file: /ol-ocw-studio-app/courses/res-21w-01-angles-fall-2015/de64ff9fbacfece73310838a74d04043_res-21w-01f15-th.jpg
 file_size: 14620
 file_type: image/jpeg
 image_metadata:
